@@ -10,8 +10,13 @@ theme:
     toggle:
       icon: material/toggle-switch
       name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
 plugins:
   - search
   - git-revision-date-localized
-
-
