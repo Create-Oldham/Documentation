@@ -1,17 +1,22 @@
-# Welcome to MkDocs
+# Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Welcome to the Create Oldham Documentation Platform
 
-## Commands
+###  Adding Documentation
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+#### Overview 
+<https://create-oldham.github.io/Documentation> is the home for documentation relating to Create Oldham.
 
-## Project layout
+It is hosted on github pages through mkdocs using the material theme.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+#### Adding Documentation 
+
+##### Github User
+
+Simply create a pull request with a new markdown file in the documentation repository and we will pull it at the next scheduled update
+
+##### Non github user 
+
+Create a markdown file (try stackedit.io if you want  a wysiwyg editor) and simply email the markdown output to theboard@createoldham.com and we will add it to the repo on your behalf
+
+Thanks to [Hackspace Manchester](https://www.hacman.org.uk/) for open sourcing their documentation, it proved very useful when we created ours.
