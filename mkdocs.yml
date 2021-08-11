@@ -24,3 +24,12 @@ plugins:
   - git-revision-date-localized
 repo_url: https://github.com/Create-Oldham/Documentation
 edit_uri: edit/master/docs/
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+extra_css:
+  - stylesheets/extra.css
