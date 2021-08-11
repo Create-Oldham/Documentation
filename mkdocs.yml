@@ -1,4 +1,4 @@
-site_name: Create Oldham Docs
+site_name: Create Oldham Wiki
 theme:
   name: material
   palette:
@@ -17,6 +17,10 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
+  icon:
+    repo: fontawesome/brands/github
 plugins:
   - search
   - git-revision-date-localized
+repo_url: https://github.com/Create-Oldham/Documentation
+edit_uri: edit/master/docs/
