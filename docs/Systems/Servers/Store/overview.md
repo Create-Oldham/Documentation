@@ -1,4 +1,4 @@
-# Store
+# Overview
 We have our own file server that can be accessed from anywhere, including from home. 
 
 This can be accessed at <https://files.createoldham.com>.
